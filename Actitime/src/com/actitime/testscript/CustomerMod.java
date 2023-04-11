@@ -15,5 +15,11 @@ public class CustomerMod extends BaseClass{
 		Reporter.log("TestCreateCustomer",true);
 		Assert.fail();
 	}
+	
+	public static  void TestDeleteCustomerdemo()
+	{
+		Reporter.log("TestDeleteCustomer",true);
+		Assert.fail();
+	}
 
 }
